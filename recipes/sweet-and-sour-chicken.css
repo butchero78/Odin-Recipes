@@ -1,0 +1,32 @@
+html{
+    margin: 10px;
+    background-color: rgb(245, 245, 233);
+    box-sizing: border-box;
+}
+
+h1{
+    font-size: 40px;
+    text-align: center;
+    background: #eb1b10;
+background: linear-gradient(90deg, rgba(235, 27, 16, 1) 0%, rgba(255, 242, 0, 1) 77%);
+}
+h2{
+    font-size: 30px;
+    color: blue;
+    border-bottom: solid black 1px;
+}
+ul li{
+    padding: 10px;
+}
+
+ol li{
+    padding: 10px;
+}
+
+li{
+    font-size: 18px;
+}
+
+span{
+    margin: 10px 0px;
+}

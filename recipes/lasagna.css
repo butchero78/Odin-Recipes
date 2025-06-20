@@ -1,0 +1,46 @@
+html{
+    margin: 10px;
+    background-color: rgb(245, 245, 233);
+    box-sizing: border-box;
+}
+
+.title{
+    color: #000000;
+    font-size: 40px;
+    text-align:left;
+    
+}
+.sub{
+    color: blue;
+    background: linear-gradient(90deg, rgba(40, 173, 47, 1) 0%, rgba(245, 242, 242, 1) 50%, rgba(196, 36, 8, 1) 100%);;
+    text-align: center;
+  
+}
+
+
+.ingredients{
+    border-bottom: solid #000000 1px;
+    color: blue;
+    font-size: 30px;
+}
+ul li{
+    padding: 10px;
+    color: black;
+}
+.directions{
+    border-bottom: solid black 1px;
+    color: blue;
+    font-size: 30px;
+}
+ol li{
+    padding: 10px;
+    color: black;
+}
+
+li{
+    font-size: 18px;
+}
+
+span{
+    margin: 10px 0px;
+}
