@@ -7,8 +7,7 @@ html{
 h1{
     font-size: 40px;
     text-align: center;
-    background: #eb1b10;
-background: linear-gradient(90deg, rgba(235, 27, 16, 1) 0%, rgba(255, 242, 0, 1) 77%);
+    background: linear-gradient(90deg, rgba(235, 27, 16, 1) 0%, rgba(255, 242, 0, 1) 77%);
 }
 h2{
     font-size: 30px;
